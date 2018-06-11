@@ -1,10 +1,5 @@
 <?php
 
-// This file contains the database access information. 
-// This file establishes a connection to MySQL and selects the database.
-// This file defines a function for making data safe to use in queries.
-// This file defines a function for hashing passwords.
-
 // Set the database access information as constants:
 DEFINE ('DB_USER', 'root');
 DEFINE ('DB_PASSWORD', 'password');
